@@ -5,4 +5,4 @@ This integration solution can add or expand hotel software system in any size of
 
 The proposed system would attract customers and also adds to the efficiency ofmaintaining the restaurant’s ordering and billing sections.
 
-App download link:https://drive.google.com/file/d/1WOvb-aIXmyhw9QXfMwmquuG1_vhSf4xq/view?usp=sharing
+**App download link:** https://drive.google.com/file/d/1WOvb-aIXmyhw9QXfMwmquuG1_vhSf4xq/view?usp=sharing
